@@ -7,7 +7,7 @@ For this project, the goal is to understand the results of an A/B test run by an
 Install Anaconda libraries of Python. The code should run with no issues using Python versions 3.*.
 
 ## File Descriptions
-1. Analyze_ab_test_results_notebook.ipynb - Jupyter Notebook to implement an image classifer with PyTorch
+1. Analyze_ab_test_results_notebook.ipynb - Jupyter Notebook
 2. Analyze_ab_test_results_notebookt.HTML - HTML copy of Jupyter Notebook
 
 Data was provided and available through Udacity's workspace
